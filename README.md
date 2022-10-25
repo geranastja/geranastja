@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Header
+![Header] (https://github.com/geranastja/geranastja/blob/main/assets/header.png)
 
 About me
 

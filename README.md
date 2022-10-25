@@ -8,5 +8,5 @@ I'm a tester
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logoColor=F88C00)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![MySQL](https://img.shields.io/badge/-MySQL-090909?style=for-the-badge&logo=MySQL&logoColor=E5D3FF)
-![C#](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%23&logoColor=6296CC)
+![C#](https://img.shields.io/badge/-C#-090909?style=for-the-badge&logo=C#&logoColor=6296CC)
 

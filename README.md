@@ -1,7 +1,16 @@
 ![Header](https://github.com/geranastja/geranastja/blob/main/assets/header.png)
 
-I'm a tester
+## I'm a tester
 
+
+### Portfolio
+[Example bug report (Jira)](https://docs.google.com/document/d/1rnfoWT8qEMsk-H3cIpMFOXpderAEPPut7OLdpjfWY24/edit?usp=sharing)
+[Checklist example](https://docs.google.com/document/d/1fgW-tLP4vrOjQjmuT_vRmrhit2jfY8uF_VtqM8DsKcs/edit?usp=sharing)
+[Test Case Example](https://docs.google.com/document/d/1hhpwojr1o_5Qjj0KGzlFhEiAjTMeYPgbGAhS-y-nEw0/edit?usp=sharing)
+[An example of autotests for C Sharp + Selenium]()
+
+
+### Languages and Tools
 ![Selenium](https://img.shields.io/badge/-Selenium-090909?style=for-the-badge&logo=Selenium&logoColor=47C5FB)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-090909?style=for-the-badge&logo=BitBucket&logoColor=097CDB)
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=Jira&logoColor=F8C52C)

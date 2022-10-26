@@ -8,7 +8,8 @@
 *  [Example bug report (Jira)](https://docs.google.com/document/d/1rnfoWT8qEMsk-H3cIpMFOXpderAEPPut7OLdpjfWY24/edit?usp=sharing)
 *  [Checklist example](https://docs.google.com/document/d/1fgW-tLP4vrOjQjmuT_vRmrhit2jfY8uF_VtqM8DsKcs/edit?usp=sharing)
 *  [Test Case Example](https://docs.google.com/document/d/1hhpwojr1o_5Qjj0KGzlFhEiAjTMeYPgbGAhS-y-nEw0/edit?usp=sharing)
-*  [An example of autotests for C Sharp + Selenium]()
+*  [An example of autotests for C Sharp + Selenium](https://github.com/geranastja/geranastja/blob/main/Test/Elastic.cs) 
+[Test Explorer screenshot](https://www.screencast.com/t/LErQCxSzoZ)
 
 
 ## Languages and Tools
